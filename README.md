@@ -138,4 +138,8 @@ MIT License
 
 ---
 
+#Author
+
+Trevor Youmans
+
 Created as a fun embedded electronics project to modernize a classic 1990s home stereo using inexpensive open-source hardware and the ESP32 platform.
