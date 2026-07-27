@@ -68,7 +68,7 @@ Phone / Tablet / Computer
 
 # Connection Status
 
-The ESP32's onboard LED indicates Bluetooth status.
+The ESP32's onboard blue LED indicates Bluetooth status.
 
 | Status | LED |
 |---------|-----|
