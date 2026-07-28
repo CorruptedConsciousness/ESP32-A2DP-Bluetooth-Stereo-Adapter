@@ -112,9 +112,9 @@ Stereo AUX / CD / Line Input
 Do **not** connect to a PHONO input.
 
 ---
-## Project Gallery
+# Project Gallery
 
-### Finished Adapter
+# Finished Adapter
 
 ![Completed ESP32 Bluetooth Stereo Adapter](images/20260728_172026.jpg)
 
