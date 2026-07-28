@@ -90,7 +90,7 @@ The ESP32's onboard blue LED indicates Bluetooth status.
 | GPIO 22 | DIN |
 
 
-# Wiring Diagram & Connections
+#  Wiring Diagram & Connections
 
 | PCM5102A Pin | Wire Color | ESP32 Pin |
 | :--- | :--- | :--- |
