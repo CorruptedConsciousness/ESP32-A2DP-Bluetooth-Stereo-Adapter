@@ -130,3 +130,4 @@ MIT License
 **Trevor Youmans**
 
 Built as a personal embedded electronics project combining hardware, software, and a little 1990s stereo nostalgia.
+"It's just a signal that needs pulled from the air and converted..."
