@@ -47,7 +47,7 @@ Built using an ESP32 microcontroller, a UDA1334A digital-to-analog converter, an
 | Orange | GPIO 26 | BCLK |
 | Yellow | GPIO 25 | WSEL / WS |
 | Blue | GPIO 22 | DIN |
-| Brown | GND | GND (shared ground) |
+| Brown | GND | AGND |
 
 ## How It Works
 
