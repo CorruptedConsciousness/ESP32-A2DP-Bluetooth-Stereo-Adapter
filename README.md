@@ -18,6 +18,8 @@ Built using an ESP32 microcontroller, a UDA1334A digital-to-analog converter, an
 
 ![Reverse View](images/BT_Reverse.png)
 
+![UDA1334A](images/BT_Convert.png)
+
 ---
 
 ## Features
